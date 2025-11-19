@@ -37,10 +37,7 @@ Department of Computer Science and Engineering
   </a>
   <a href="https://www.facebook.com/profile.php?id=61577289311471">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.instagram.com/_sanju_uzumaki_/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>  
+  </a> 
 </div>
 
 <br/>
