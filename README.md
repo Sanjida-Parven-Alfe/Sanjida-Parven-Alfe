@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm a passionate Junior web developer from Bangladesh. I enjoy building modern, responsive, and high-performance web applications using JavaScript, React, Node.js, and MongoDB.I love exploring new technologies, solving complex problems, and contributing to open-source projects. Currently, I'm focused on improving my skills in MERN stack development, Firebase integration, and creating user-friendly interfaces.When I'm not coding, I enjoy learning about tech trends, digital design, and sharing knowledge with fellow developers.
+I'm a passionate Junior web developer from Bangladesh. I enjoy building modern, responsive, and high-performance web applications using JavaScript, React, Node.js, and MongoDB.I love exploring new technologies, solving complex problems, and contributing to open-source projects. Currently, I'm focused on improving my skills in MERN stack development, Firebase integration, and creating user-friendly interfaces.
 
 <br/>
 
@@ -22,17 +22,19 @@ I'm a passionate Junior web developer from Bangladesh. I enjoy building modern, 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-  <br/>
-  <br/>
+- 🔭 &nbsp; I’m currently studying for my Undergraduate at AIUB,
+Department of Computer Science and Engineering
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sanjida-Parven-Alfe?tab=repositories)
+- 📚 &nbsp; When I'm not coding, I enjoy learning about tech trends, digital design, and sharing knowledge with fellow developers.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 ---
 
 ## 🛠️ Tech Stack  
