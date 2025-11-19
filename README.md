@@ -18,7 +18,7 @@ I'm a passionate Junior web developer from Bangladesh. I enjoy building modern, 
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Sanjida-Parven-Alfe/Sanjida-Parven-Alfe/main/Coding.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
