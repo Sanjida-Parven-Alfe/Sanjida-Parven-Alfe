@@ -26,14 +26,25 @@ I'm a passionate Junior web developer from Bangladesh. I enjoy building modern, 
 Department of Computer Science and Engineering
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sanjida-Parven-Alfe?tab=repositories)
 - 📚 &nbsp; When I'm not coding, I enjoy learning about tech trends, digital design, and sharing knowledge with fellow developers.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
+ How to reach me : <a href="mailto: sanjidaparvinalfe@gmail.com">sanjidapavinalfe@gmail.com</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/sanjida-parven-06b407333/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dev.to/sanjida_parven_alfe">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61577289311471">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_sanju_uzumaki_/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+<br/>
+<br/>
+<br/>
 
 ---
 
