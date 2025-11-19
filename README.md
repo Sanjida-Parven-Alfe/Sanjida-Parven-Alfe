@@ -87,4 +87,9 @@ Department of Computer Science and Engineering
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjida-parven-alfe&label=Profile%20views&color=0e75b6&style=flat" alt="sanjida-parven-alfe" /> </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjida-Parven-Alfe/Sanjida-Parven-Alfe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjida-Parven-Alfe/Sanjida-Parven-Alfe/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sanjida-Parven-Alfe/Sanjida-Parven-Alfe/output/github-snake.svg" />
+</picture>
 
