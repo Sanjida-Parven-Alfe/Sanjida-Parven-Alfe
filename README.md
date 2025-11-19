@@ -40,8 +40,9 @@ Department of Computer Science and Engineering
   </a>
   <a href="https://www.instagram.com/_sanju_uzumaki_/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  </a>  
 </div>
+
 <br/>
 <br/>
 <br/>
