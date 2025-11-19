@@ -28,9 +28,20 @@ Department of Computer Science and Engineering
 - 📚 &nbsp; When I'm not coding, I enjoy learning about tech trends, digital design, and sharing knowledge with fellow developers.
 
  How to reach me : <a href="mailto: sanjidaparvinalfe@gmail.com">sanjidapavinalfe@gmail.com</a>
-<br/>
-<br/>
-<br/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/sanjida-parven-06b407333/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dev.to/sanjida_parven_alfe">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61577289311471">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_sanju_uzumaki_/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 <br/>
 <br/>
 <br/>
@@ -39,22 +50,17 @@ Department of Computer Science and Engineering
 
 ## 🛠️ Tech Stack  
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+### 🚀 Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/Sanjida-Parven-Alfe)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind)](https://github.com/Sanjida-Parven-Alfe)
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### 🧩 Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://github.com/Sanjida-Parven-Alfe)
+
+### 🛠️ Tools & Others
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://github.com/Sanjida-Parven-Alfe)
 
 ---
 
@@ -77,25 +83,6 @@ Department of Computer Science and Engineering
   </div>
   <br>
 </p>
-
-
-## 🌐 Connect With Me  
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sanjida-parven-06b407333/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://dev.to/sanjida_parven_alfe">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61577289311471">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://www.instagram.com/_sanju_uzumaki_/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
 
 ---
 
