@@ -66,27 +66,22 @@ Department of Computer Science and Engineering
 ## 📊 GitHub Stats  
 <br>
 <p align=center>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanjida-Parven-Alfe&show_icons=true&theme=radical&border_color=ff79c6&hide_border=false" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com/?user=Sanjida-Parven-Alfe&theme=radical&border=ff79c6&hide_border=false" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjida-Parven-Alfe&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=1b1f2b&langs_count=8&layout=compact&border_color=ff79c6&hide_border=false" />
-  </a>
-</div>
-  <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjida-Parven-Alfe&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=1b1f2b&langs_count=8&layout=compact&border_color=ff79c6&hide_border=false&size_weight=0.5&count_weight=0.5" />
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=400 src="https://streak-stats.demolab.com/?user=Sanjida-Parven-Alfe&theme=radical&border=ff79c6&hide_border=false" alt="Sanjida-Parven-Alfe" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Sanjida-Parven-Alfe&show_icons=true&theme=radical&border_color=ff79c6&hide_border=false" />
     </a>
   </div>
-  <br>
+  <br><br><br><br><br><br><br><br><br>
+
+ <div align=center>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjida-Parven-Alfe&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=1b1f2b&langs_count=8&layout=compact&border_color=ff79c6&hide_border=false&size_weight=0.5&count_weight=0.5" />
+   </a>
+</div>
+<br>
 </p>
 
 ---
