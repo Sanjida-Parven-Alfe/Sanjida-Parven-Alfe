@@ -63,7 +63,7 @@ Department of Computer Science and Engineering
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 <table>
   <tr>
     <td align="center">
