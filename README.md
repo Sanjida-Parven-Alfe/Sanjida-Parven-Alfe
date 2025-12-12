@@ -92,7 +92,7 @@ Department of Computer Science and Engineering
 </picture>
 
 <div align="center">
-  <a href="https://github.com/pipaliyajaydip">
+  <a href="https://github.com/Sanjida-Parven-Alfe">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling"
        alt="Thanks for visiting!"
        width="100%"
