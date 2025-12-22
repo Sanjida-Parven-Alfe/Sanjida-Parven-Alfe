@@ -29,7 +29,7 @@ Department of Computer Science and Engineering
 
  How to reach me : <a href="mailto: sanjidaparvinalfe@gmail.com">sanjidapavinalfe@gmail.com</a>
 <div align="left">
-  <a href="https://www.linkedin.com/in/sanjida-parven-06b407333/">
+  <a href="https://www.linkedin.com/in/sanjida-parven-alfe/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://dev.to/sanjida_parven_alfe">
