@@ -35,9 +35,6 @@ Department of Computer Science and Engineering
   <a href="https://dev.to/sanjida_parven_alfe">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61577289311471">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a> 
 </div>
 
 <br/>
