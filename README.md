@@ -64,12 +64,12 @@ Department of Computer Science and Engineering
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/pipaliyajaydip">
+      <a href="https://github.com/Sanjida-Parven-Alfe">
         <img src="https://github-readme-stats-plum-nine.vercel.app/api?username=Sanjida-Parven-Alfe&show_icons=true&theme=radical" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/pipaliyajaydip">
+      <a href="https://github.com/Sanjida-Parven-Alfe">
         <img src="https://github-readme-streak-stats-plum-nine.vercel.app/?user=Sanjida-Parven-Alfe&theme=radical" alt="GitHub Streak" />
       </a>
     </td>
